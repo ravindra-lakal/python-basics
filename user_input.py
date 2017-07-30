@@ -1,4 +1,5 @@
 print("Enter input")
 s=input()
-print(s)
+print(s,end=",")
+
 
